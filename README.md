@@ -4,6 +4,7 @@ Yes No App is a chat application built with Flutter that simulates messages betw
 - Attractive design: Minimalist and user-friendly interface.
 - Alternating messages: Simulates a conversation with message bubbles for "you" and "her".
 - Color customization: Themes with different color palettes.
+- features: image is added to the conversation
 
 #### Installation
 Follow these setps to set up the project locally
